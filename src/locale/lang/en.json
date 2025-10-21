@@ -78,5 +78,9 @@
   "help_link": "https://github.com/glink25/Cent/blob/main/docs/Help_en.md",
   "sum": "sum",
   "are-you-sure-to-delete-this-bill": "Are you sure to delete this bill?",
-  "see-details": "see details"
+  "see-details": "see details",
+  "cent-ad-title": "✨ Introduce New Cent",
+  "cent-ad-desc": "Fully upgraded features, supports online synchronization, completely open-source and free, data compatible.",
+  "cent-ad-try": "Try now",
+  "cent-ad-close": "close"
 }

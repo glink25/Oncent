@@ -15,6 +15,7 @@
         </div>
       </div>
     </div>
+    <Ad/>
     <div v-if="list.length" class="flex-1 overflow-y-auto">
       <ListView
         ref="listView"
@@ -67,6 +68,7 @@ import { useBillInfo } from "@/hooks/useBillInfo";
 import dayjs from "dayjs";
 import { BillType, type Bill } from "@/data/bill";
 import BillItem from "../components/BillItem.vue";
+import Ad from "../components/Ad.vue";
 import { denseTime } from "@/utils/time";
 import { add } from "mathjs";
 const { list } = useBills();

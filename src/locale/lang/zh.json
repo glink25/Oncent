@@ -77,5 +77,9 @@
   "help_link": "https://github.com/glink25/Cent/blob/main/docs/Help_zh.md",
   "sum": "结余",
   "are-you-sure-to-delete-this-bill": "确定要删除这条记录吗？",
-  "see-details": "查看详情"
+  "see-details": "查看详情",
+  "cent-ad-title": "✨ 全新Cent已推出",
+  "cent-ad-desc": "功能全面升级，支持在线同步，完全开源免费，数据兼容",
+  "cent-ad-try": "点击尝试",
+  "cent-ad-close": "关闭"
 }
